@@ -1,2 +1,2 @@
-# HASIL_SKRIPSI_SIDANG_AKHIR_YUSRIL_ALFAFA_FUZZY_FMEA_AHP_TOPSIS_FIXXX
-SKRIPSI YUSRIL FMEA AHP TOPSIS SIDANG AKHIR_FIXXX
+# Conveyor Risk Analysis Dashboard - Ordered by Daftar Gambar
+Web Dashboard structured exactly according to the thesis 'Daftar Gambar' (Gambar 2.1 to Gambar 4.10).
